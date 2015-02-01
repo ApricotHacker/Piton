@@ -8,7 +8,7 @@ int main(void)
 	printf("MI MEKANFEG ?(A=BARAK, B=OFEK) : ");
 	scanf("%c", &choice);
 	if (choice=='A')
-		printf("NAHON MEOD\n");
+		printf("NEHMAD MEOD\n");
 	// Barak isn't really mekanfeg-ing.
 	else if (choice=='B')
 		printf("OFEK MEKANFEG\n");
