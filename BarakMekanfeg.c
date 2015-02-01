@@ -14,6 +14,6 @@ int main(void)
 		printf("OFEK MEKANFEG\n");
 	else
 		printf("Invalid choice\n");
-	return 0;
+	return (0);
 	system("PAUSE");
 }
